@@ -10,17 +10,15 @@ I am a first-year Ph.D. candidate at HKUST NLP Group, advised by Professor Junxi
 - **Hallucination in Vision-Language Models (VLM)**
 - **LLM Truthfulness and Interpretability**
 
-Before joining HKUST, I completed my undergraduate studies at Shanghai Jiao Tong University (SJTU), graduating in June 2024 with a B.Eng. degree. I have gained valuable research experience through internships at MINIMAX, Tencent WXG, and Shanghai AI Lab.
+Before joining HKUST, I completed my undergraduate studies at Shanghai Jiao Tong University (SJTU), graduating in June 2024. I have gained valuable research experience through internships at MINIMAX, Tencent WXG, and Shanghai AI Lab.
 
 ## Education
 
 - **Ph.D. in Computer Science** (2024 - Present)
   - Hong Kong University of Science and Technology (HKUST)
-  - Advisor: Professor Junxian He
 
 - **B.Eng.** (2020 - 2024)
   - Shanghai Jiao Tong University (SJTU)
-  - Graduated with Zhiyuan Honor Scholarship
 
 ## Research Experience
 
@@ -29,11 +27,9 @@ Before joining HKUST, I completed my undergraduate studies at Shanghai Jiao Tong
 
 - **Research Intern** (June 2024 - September 2024)
   - Tencent WXG
-  - Advisor: Zifei Shan
 
 - **Research Intern** (June 2023 - December 2023)
   - Shanghai AI Lab
-  - Advisor: Prof. Yu Cheng
 
 ## Selected Publications
 
